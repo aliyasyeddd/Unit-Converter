@@ -30,6 +30,10 @@ h1 {
   text-align: center;
 }
 
+#number-input::placeholder {
+  color: #FFFFFF;
+}
+
 button {
   margin-top: 30px;
   width: 117px;
